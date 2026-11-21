@@ -1,4 +1,4 @@
-# Multi User Checklist
+# Multi-User Checklist
 A powerful multi-user checklist program designed in Raylib.
 ###### This project is _not_ made with Generative AI.
 
@@ -16,3 +16,4 @@ Speaking of features.
 - Realtime peer editing
 - Minimalist UI
 - Dynamic DPI scaling
+- Realtime log
