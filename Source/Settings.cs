@@ -20,7 +20,17 @@ internal static class Settings
     public static MouseButton ScrollDragButton { get; set; } = MouseButton.Right;
 
     /// <summary>
-    /// Scroll wheel speed.
+    /// Scroll wheel speed
     /// </summary>
     public static float ScrollSpeed { get; set; } = 30f;
+
+    /// <summary>
+    /// Will invert the direction of normal scroll
+    /// </summary>
+    public static bool InvertScroll { get; set; } = false;
+
+    /// <summary>
+    /// Will auto-scroll to the most recently created list
+    /// </summary>
+    public static bool ScrollToNewList { get; set; } = false;
 }

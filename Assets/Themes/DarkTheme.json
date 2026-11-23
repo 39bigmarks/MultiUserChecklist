@@ -1,0 +1,79 @@
+{
+  "Name": "Dark Theme",
+  "FontPath" : "Assets\\Fonts\\Open_Sans\\static\\OpenSans-Regular.ttf",
+  "UiScale" : 1,
+  "FontFilter" : 2,
+  "IconFilter" : 2,
+  "BackgroundColor": [
+    12,
+    12,
+    16
+  ],
+  "MenuBarColor": [
+    48,
+    48,
+    56
+  ],
+  "ChecklistTitleColor": [
+    102,
+    191,
+    255
+  ],
+  "ChecklistItemColor": [
+    245,
+    245,
+    245
+  ],
+  "ButtonColor": [
+    55,
+    55,
+    79
+  ],
+  "ButtonHighlightColor": [
+    84,
+    84,
+    114
+  ],
+  "ButtonPressedColor": [
+    74,
+    74,
+    104
+  ],
+  "ButtonDisabledColor": [
+    56,
+    56,
+    56
+  ],
+  "ChecklistBgColor": [
+    32,
+    32,
+    40
+  ],
+  "ChecklistSecondaryBgColor": [
+    23,
+    23,
+    30
+  ],
+  "TextColor": [
+    245,
+    245,
+    245
+  ],
+  "TextDisabledColor": [
+    95,
+    95,
+    95
+  ],
+  "PadChecklistEmptySpace" : false,
+  "Crossout" : false,
+  "Padding" : 8,
+  "ButtonTextSize" : 18,
+  "ChecklistSpacing" : 0,
+  "MenuBarButtonSize" : 48,
+  "MenuBarButtonSpacing" : 5,
+  "ChecklistTitleSize" : 32,
+  "ChecklistItemSize" : 28,
+  "ChecklistItemSpacing" : 15,
+  "ChecklistBoxSize" : 36,
+  "ChecklistWidth" : 100
+}
